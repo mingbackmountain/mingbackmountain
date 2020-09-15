@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Ming's github stats](https://github-readme-stats.vercel.app/api?username=mingbackmountain)](https://github.com/anuraghazra/github-readme-stats)
